@@ -32,4 +32,18 @@ canvas {
   border:1px solid #222;
 }
 
+logo {
+  display:flex;
+  position:absolute;
+  color:white;
+  font-family: Arial;
+  font-size:40px;
+  border:2px dashed white;
+  width:40%;
+  height:40%;
+  left:30%;
+  top:30%;
+  justify-content: center;
+  align-items:center;
 
+}
